@@ -1,4 +1,4 @@
-# Hi! We're Eastplayers :D
+<img src="https://eastplayers.io/wp-content/themes/eastplayers/assets/image/logo.png" width="300px" />
 
 > We are the players from the East of the globe. We are not only expertise at technical, but we play with technical, delivering break-through and growth-hacking products for your businesses.
 
